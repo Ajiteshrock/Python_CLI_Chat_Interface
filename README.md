@@ -1,5 +1,5 @@
 # Python_CLI_Chat_Interface
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRh7NuzS0HyuR4PCNMeXM2rc0xTKYpZhERuag&usqp=CAU)
+![image](https://www.hostinger.com/tutorials/wp-content/uploads/sites/2/2019/05/email-marketing-best-practices.jpg)
 <h3>A simple Server socket using Python Socket and Encryption of messagesfrom clients through PyCrypto</h3>
 <p> <h4>In this command line application I used Python as a programming Language<h4></p>
 <ul>
